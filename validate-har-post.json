@@ -2,16 +2,6 @@
     "method": "POST",
     "url": "https://api.tppvalidation.com/validate",
     "httpVersion": "HTTP/1.1",
-    "queryString": [
-        {
-            "name": "foo",
-            "value": "bar"
-        },
-        {
-            "name": "foo",
-            "value": "baz"
-        }
-    ],
     "headers": [
         {
             "name": "Accept",
